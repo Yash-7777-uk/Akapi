@@ -1,3 +1,3 @@
 module.exports = {
-    value: "535fc158790dd698d59cd453aab9c317a901c365"
+    value: "0603a7f6b4ef386f21ccdabf77cfac6c98fe603a"
 };
